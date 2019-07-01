@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'LLtestCocoapods848278'
-  s.version = '1.0.1'
+  s.version = '1.0.0'
   s.summary = '测试创建LLtestCocoapods848278项目'
   s.homepage = 'https://github.com/TheRuningAnt/LLtestCocoapods848278.git'
   s.license = {:type=>"MIT",:file=>"LICENSE"}
